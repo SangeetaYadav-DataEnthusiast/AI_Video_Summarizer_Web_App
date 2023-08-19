@@ -9,4 +9,4 @@
 6. python app.py
 7. After the summarizer model starts running 
 8. open a new web browser and type :-
-9. localhost:8080
+9. localhost:5000
