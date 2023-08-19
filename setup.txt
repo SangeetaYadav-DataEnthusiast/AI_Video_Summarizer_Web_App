@@ -1,0 +1,6 @@
+conda create -p env python==3.10 -y
+conda activate env/
+conda install ffmpeg -y
+pip install ffmpeg 
+pip install -r requirements.txt
+python app.py
